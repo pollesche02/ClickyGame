@@ -3,7 +3,7 @@ import Jumbotron from "./components/Jumbotron/index";
 import Navbar from "./components/Navbar/index";
 import Card from "./components/Card/index";
 import Footer from "./components/Footer/index";
-import characters from "./products.json";
+import products from "./products.json";
 
 class App extends Component {
   
